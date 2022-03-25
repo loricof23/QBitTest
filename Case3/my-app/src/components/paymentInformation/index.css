@@ -1,0 +1,49 @@
+.detail-information {
+  background-color: #566D7E;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  color: white;
+}
+
+.right{
+  margin-top: 35px;
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.payment-top{
+  margin-bottom: 10px;
+}
+
+.payment-bottom{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.icon-detail{
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.contact-us{
+  margin-top: 10px;
+}
+.wa{
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.phoneNumber{
+  margin-left:20px;
+  font-size: 13px;
+}
+
+.email{
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.emailName{
+  margin-left:16px;
+  font-size: 13px;
+}

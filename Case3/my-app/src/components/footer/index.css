@@ -1,0 +1,75 @@
+.footer{
+  background-color: #2C3539;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.about{
+  color: white;
+}
+
+
+.service{
+  color: white;
+}
+
+.contact{
+  color: white;
+}
+
+.title{
+  margin-top: 20px;
+  font-size: 22px;
+  border-bottom: 1px solid white;
+  margin-bottom: 20px;
+}
+
+.list-footerContents{
+  margin-bottom: 20px;
+}
+
+.footer-bottom{
+  background-color: #2C3539;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.title-media{
+  margin-top: 20px;
+  margin-left: 20%;
+}
+
+.list-media{
+  display: flex;
+  margin-top: 10px;
+}
+
+.fb{
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+.ig{
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+.tw{
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+.copyright{
+  background-color: #2C3539;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.copyrightname{
+  margin-top: 20px;
+}

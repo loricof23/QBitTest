@@ -1,0 +1,57 @@
+.list{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box{
+  border: 1px solid grey;
+  box-shadow: 1px 1px 1px #888888;
+  margin: 10px;
+  padding: 20px;
+  width: 15%;
+}
+
+.box > .picture{
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.nama {
+  font-weight: bold;
+}
+
+.keterangan {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.detail{
+  margin-top:20px;
+}
+
+.buy {
+  background-color: #2C3539;
+  border: none;
+  color: white;
+  width: 50px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination a.active {
+  background-color:  #2C3539;
+  color: white;
+}

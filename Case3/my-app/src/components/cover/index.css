@@ -1,0 +1,8 @@
+.cover{
+  margin-top:60px;
+}
+.a{
+  background-image: url("image1.jpg");
+  background-size: cover;
+  height: 500px;
+}

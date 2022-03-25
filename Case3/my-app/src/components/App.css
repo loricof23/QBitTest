@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.content{
+  margin: 0;
+}
+.header {
+  background-color: #2C3539;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.search{
+  border: none;
+  width: 50%;
+}
+
+.name{
+  color: black;
+  font-size: 20px;
+  color: white;
+}
+
+.header > .language{
+  display:flex;
+  color: white;
+} 
+.header > .login{
+  color: white;
+} 
+.header > .cart{
+  color: white;
+}
+
+
+.info > .list {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  list-style-type: none;
+  display: flex; 
+  justify-content: space-around;
+}
+
+.icon{
+  padding-left: 10px;
+}
+
+.navbar {
+  position: fixed;
+  top: 60px;
+  width: 100%;
+  padding: 10px;
+  background-color: #566D7E;
+  color: white;
+}
+
+.navbar > .list-detail{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.icon{
+  font-size: 60px;
+  margin-left: 25%;
+}
+
+
+.detail-image{
+  margin-right: 200px;
+  padding: 20px;
+}
+
